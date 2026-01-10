@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-09)
+## Unreleased (2026-01-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6f08c1e`](https://github.com/stdlib-js/stdlib/commit/6f08c1e408e4b75314ef3c9a175c91ed2a266eea) - **docs:** fix description _(by Philipp Burckhardt)_
 -   [`2e1dd2a`](https://github.com/stdlib-js/stdlib/commit/2e1dd2a67c285b42e70077e0214b982fe18a55a2) - **feat:** add `object/bifurcate-own` _(by Neeraj Pathak)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
